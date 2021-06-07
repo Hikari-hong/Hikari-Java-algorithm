@@ -1,4 +1,4 @@
-    package algorithm;
+    package algorithm_chap01;
     import java.util.Scanner;
     // 3개의 정숫값을 입력후 최대값을 구함.
 
